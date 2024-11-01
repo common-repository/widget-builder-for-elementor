@@ -1,0 +1,107 @@
+@font-face {
+    font-family: 'ewgicon';
+    src:  url('fonts/ewgicon.eot?5gbjfd');
+    src:  url('fonts/ewgicon.eot?5gbjfd#iefix') format('embedded-opentype'),
+      url('fonts/ewgicon.ttf?5gbjfd') format('truetype'),
+      url('fonts/ewgicon.woff?5gbjfd') format('woff'),
+      url('fonts/ewgicon.svg?5gbjfd#ewgicon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  i {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'ewgicon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+
+  .ewg-icon-move-left:before {
+    content: "\e91a";
+  }
+  .ewg-icon-move-right:before {
+    content: "\e91b";
+  }
+  .ewg-icon-wand:before {
+    content: "\e917";
+  }
+  .ewg-icon-combine:before {
+    content: "\e911";
+  }
+  .ewg-icon-ellipsis:before {
+    content: "\e912";
+  }
+  .ewg-icon-ellipsis-vertical:before {
+    content: "\e913";
+  }
+  .ewg-icon-convert:before {
+    content: "\e90f";
+  }
+  .ewg-icon-show:before {
+    content: "\e910";
+  }
+  .ewg-icon-caret-left:before {
+    content: "\e900";
+  }
+  .ewg-icon-caret-up:before {
+    content: "\e914";
+  }
+  .ewg-icon-caret-right:before {
+    content: "\e915";
+  }
+  .ewg-icon-caret-down:before {
+    content: "\e916";
+  }
+  .ewg-icon-search:before {
+    content: "\e901";
+  }
+  .ewg-icon-split:before {
+    content: "\e902";
+  }
+  .ewg-icon-cog:before {
+    content: "\e903";
+  }
+  .ewg-icon-reload:before {
+    content: "\e904";
+  }
+  .ewg-icon-info:before {
+    content: "\e905";
+  }
+  .ewg-icon-arrow-left:before {
+    content: "\e906";
+  }
+  .ewg-icon-arrow-right:before {
+    content: "\e907";
+  }
+  .ewg-icon-arrowdown:before {
+    content: "\e908";
+  }
+  .ewg-icon-arrow-up:before {
+    content: "\e909";
+  }
+  .ewg-icon-close:before {
+    content: "\e90a";
+  }
+  .ewg-icon-plus:before {
+    content: "\e90b";
+  }
+  .ewg-icon-hide:before {
+    content: "\e90c";
+  }
+  .ewg-icon-trash:before {
+    content: "\e90d";
+  }
+  .ewg-icon-edit:before {
+    content: "\e90e";
+  }
+  
